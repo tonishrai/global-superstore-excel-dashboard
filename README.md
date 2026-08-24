@@ -10,7 +10,7 @@ Interactive Excel dashboard analyzing sales, profit, and regional performance fo
 
 ## 📊 Dashboard Preview
 
-![Global Superstore Dashboard](dashboard-preview.png)
+<img src="dashboard-preview.png" alt="Global Superstore Excel Dashboard" width="100%">
 
 ## Key Insights
 
@@ -19,6 +19,15 @@ Interactive Excel dashboard analyzing sales, profit, and regional performance fo
 - ⚠️ **Canada** underperforms significantly — just $17.8K profit despite meaningful sales volume, flagging a pricing or cost issue worth investigating
 - 📉 **Tables (Furniture)** is actually losing money — **-$64K profit** on $757K in sales, likely driven by heavy discounting eating into margins
 - 💻 **Technology** is the most profitable category ($663K profit), ahead of Office Supplies ($518K) and Furniture ($285K)
+
+## 🎯 Business Questions
+
+- Which region generates the highest sales and profit?
+- Which product categories are the most profitable?
+- Which countries or states are underperforming?
+- How do discounts impact profitability?
+- How do sales and profit change over time?
+- Which segments contribute the most to overall profit?
 
 ## What's in this repo
 
@@ -30,6 +39,26 @@ Interactive Excel dashboard analyzing sales, profit, and regional performance fo
 2. Built pivot tables to summarize sales and profit by region, category, sub-category, and market
 3. Designed pivot charts to visualize regional performance and profit trends over time
 4. Added slicers so the dashboard can be filtered interactively by year, region, and category
+5. Derived business insights from sales, profit, discount, and regional performance
+
+## 🛠️ Excel Skills & Techniques
+
+- Data Cleaning and Preparation
+- Pivot Tables
+- Pivot Charts
+- Slicers and Interactive Filters
+- KPI Analysis
+- Data Visualization
+- Conditional Formatting
+- Sales and Profit Analysis
+- Regional and Category Analysis
+- Business Insight Generation
+
+## 💼 Skills Demonstrated
+
+**Excel:** Pivot Tables, Pivot Charts, Slicers, Data Visualization, KPI Analysis  
+**Analytics:** Data Cleaning, Exploratory Data Analysis, Trend Analysis, Profitability Analysis  
+**Business:** Performance Analysis, Regional Analysis, Category Analysis, Insight Generation
 
 ## Next steps I'd explore
 
