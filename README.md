@@ -8,6 +8,10 @@ Interactive Excel dashboard analyzing sales, profit, and regional performance fo
 - **Time period:** 2011–2014
 - **Tools used:** Excel (Pivot Tables, Pivot Charts, formulas)
 
+## 📊 Dashboard Preview
+
+![Global Superstore Dashboard](dashboard-preview.png)
+
 ## Key Insights
 
 - 💰 **$12.64M** in total sales generated **$1.47M** in profit overall
